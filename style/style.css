@@ -1,0 +1,36 @@
+html, body{
+    font-family: 'Nunito Sans', 'Open Sans';
+}
+img{
+    height:500px;
+}
+.port{
+    display: flex;
+}
+header{
+    background: url(../img/fon.jpg);
+    width: 1920px;
+    height: 2500px;
+}
+a{
+    color: black;
+}
+.volt{
+    padding-left: 50px;
+    padding-top: 15px;
+    font-weight: bolder;
+}
+div{
+    font-size: 20px;
+}
+.pol{
+    font-weight: bolder;
+}
+h2{
+    padding-top: 150px;
+}
+.hert{
+    border-radius: 15%;
+    padding-left: 30px;
+    padding-top: 30px;
+}
